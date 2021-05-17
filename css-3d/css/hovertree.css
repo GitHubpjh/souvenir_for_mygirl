@@ -1,8 +1,10 @@
 html{
 /*	background-image: url(img/img02.jpg);*/
-	background:linear-gradient(#FF6666 0%,#336699 60%);/*背景渐变颜色*/
+	/*background:linear-gradient(#FF6666 0%,#336699 60%);/*背景渐变颜色*/
+	background:linear-gradient(#99CCFF 0%,#FFCCFF 60%);/*背景渐变颜色*/
     height: 100%;
-    color:#99cc33;/*文字颜色*/
+    /*color:#99cc33;/*文字颜色*/
+	color:#FFFFFF;/*文字颜色*/
 }
 
 /*最外层容器样式*/
